@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "WebApp Calculator.",
     description: "A simple calculator to take your first steps in blazor Webssembly.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://github.com/123-edwin/WebAppCalculator",
   },
 ];
 

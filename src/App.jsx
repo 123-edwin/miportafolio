@@ -29,7 +29,7 @@ const siteProps = {
   email: "edwinestrella23@outlook.com",
   gitHub: "123-edwin",
   instagram: "edwin_isai03",
-  linkedIn: "",
+  linkedIn: "edwin-isai-rios-estrella-2a59882a9/",
   medium: "",
   twitter: "",
   youTube: "",

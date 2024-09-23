@@ -35,6 +35,21 @@ const projectList = [
     description: "A simple calculator to take your first steps in blazor Webssembly.",
     url: "https://github.com/123-edwin/WebAppCalculator",
   },
+  {
+    title: "CRUD With C#.",
+    description: "An example of CRUD made it with Blazor",
+    url: "https://github.com/123-edwin/CRUDCSharp",
+  },
+  {
+    title: "Weather AppWeb With React.",
+    description: "An example of a call to API to get Weather",
+    url: "https://github.com/123-edwin/Weather",
+  },
+  {
+    title: "CRUDParakids.",
+    description: "An example of CRUD with Js, Html and Css",
+    url: "https://github.com/123-edwin/CRUDParakids",
+  },
 ];
 
 const Portfolio = () => {
